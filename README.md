@@ -26,6 +26,15 @@ git clone https://github.com/k0gen/primal-startos.git
 cd primal-startos
 ```
 
+```
+git submodule init
+git submodule update
+
+--or--
+
+git clone --recurse-submodules git@horologger-github:horologger/primal-ion-startos.git
+```
+
 ## Building
 
 To build the **Primal** service as a universal package, run the following command:
