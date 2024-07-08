@@ -1,10 +1,10 @@
 
-id: primal 
-title: "Primal"
-version: 0.93.14
-release-notes: "Initial release of Primal for StartOS"
+id: primal-ion 
+title: "Primal-Ion"
+version: 0.105.8
+release-notes: "Primal-Ion for StartOS"
 license: MIT
-wrapper-repo: "https://github.com/k0gen/primal-startos"
+wrapper-repo: "https://github.com/horologger/primal-ion-startos"
 upstream-repo: "https://github.com/PrimalHQ/primal-web-app"
 support-site: "https://github.com/PrimalHQ/primal-web-app/issues"
 marketing-site: "https://primal.net/"
@@ -27,7 +27,7 @@ main:
 health-checks:
   web-ui:
     name: Web UI
-    success-message: Primal is ready
+    success-message: Primal-Ion is ready
     type: script
 config: ~
 properties: ~

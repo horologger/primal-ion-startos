@@ -1,4 +1,4 @@
-# Instructions for Primal
+# Instructions for Primal-Ion
 
 1. Click **Launch UI** to access your personal Primal website.
 2. Familiarize yourself with the interface.
